@@ -1,5 +1,8 @@
 _repo: Memoirs-of-the-Late-War-Vol-2-of-2-Comprising-the-Personal-Narrative-of-Captain-Cooke-of-the-__55953
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55953-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Fitzclarence, George
@@ -18,6 +21,8 @@ creator:
     gutenberg_agent_id: '48592'
     url: http://www.gutenberg.org/2009/agents/48592
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55953#Memoirs-of-the-Late-War-Vol-2-of-2-Comprising-the-Personal-Narrative-of-Captain-Cooke-of-the-_
 gutenberg_issued: '2017-11-13'
 gutenberg_type: Text
 identifiers:
